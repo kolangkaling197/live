@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-MEDIA-SEQUENCE:22611
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-KEY:METHOD=AES-128,URI="https://world-proxifier.xyz/daddylive/k/XSQhJT0FNyggJCAFOUZaIUohJDwnIickVzIsLTwlXTgCLEAhIQ0hJz9aPElXWlcIJTpaV0wjWgMDBixTL0hWUiIIBA==/master.key",IV=0x30303030303030303030303068d244af,KEYFORMAT="identity"
+#EXT-X-PROGRAM-DATE-TIME:2025-09-25T07:22:40.973+00:00
+#EXTINF:5,
+https://s3.eu-central-003.backblazeb2.com/ekulinic/assets/2025-09-25/07/premium383/tfc0mq3hngto.htm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=003cee1896d62e00000000001%2F20250925%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20250925T072235Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7d8da4796ccd5ee604696722253dd6ccc48f7dbe455a618d827a34ea86e3aef6
+#EXTINF:5,
+https://s3.eu-central-003.backblazeb2.com/lapidairy/assets/2025-09-25/07/premium383/8nip2g7eke20.txt?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0034e5620dbad230000000001%2F20250925%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20250925T072241Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7d11e36aae7db356b1e79f97ce0139211bbaa214a8ee47ce8a7cfaf8be692fa2
+#EXTINF:5,
+https://s3.eu-central-003.backblazeb2.com/bertyapple/assets/2025-09-25/07/premium383/1j301f4a6qka.php?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0032285fdccb24c0000000001%2F20250925%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20250925T072247Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=52bb745644371df060e9991ff22f8afd9a90a07c945059dd71c7d62d82cf6352
+#EXTINF:5,
+https://s3.eu-central-003.backblazeb2.com/bertyapple/assets/2025-09-25/07/premium383/xxv1qq8pp792.js?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0032285fdccb24c0000000001%2F20250925%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20250925T072251Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fe9bf6e4221ea8e6f6a17be961c48ee9429dfd8190d3c97782d6950d7462cfca
+#EXTINF:5,
+https://s3.eu-central-003.backblazeb2.com/pyyramid/assets/2025-09-25/07/premium383/qz986my7kb35.css?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=003b1917212210a0000000001%2F20250925%2Feu-central-003%2Fs3%2Faws4_request&X-Amz-Date=20250925T072257Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=57b34de4f3c25d2b28e6546ebf980c985979a1320df0840fe56a9b84c6d5fcf6
